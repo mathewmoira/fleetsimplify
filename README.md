@@ -1,4 +1,4 @@
-## Laravel User Management System
+## Laravel Driver onboarding Portal
 
 Simple mini-project created for User Management. You can Create Superadmin, admin, Normal User And can Create User you want with different roles and permissions Using Just UI
 
@@ -16,15 +16,15 @@ Simple mini-project created for User Management. You can Create Superadmin, admi
 
 ## How to Install
 
-- git clonehttps://github.com/bestmomo/laravel5-example.gitprojectname
+- git clone
 - cd projectname
 - composer install
 - php artisan key:generate
 - Create a database and inform .env
-- php artisan migrate --seed to create and      populate tables
+- php artisan migrate --seed to create and populate tables
 - php artisan serve to start the app on http://localhost:8000/
 
-Note:admin login email:admin@admin.com Password:password
+Note:admin login email:moira@admin.com Password:password
 ### License
 
 Please use and re-use however you want.
